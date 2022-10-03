@@ -1,0 +1,76 @@
+body{
+    background-color: hsl(225, 100%, 94%);
+    background-image: url(../order-summary-component-main/images/pattern-background-desktop.svg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.charset{
+    background-color: white;
+    width: 400px;
+    text-align: center;
+    height: 600px;
+    margin: 500px;
+    border-radius: 20px;
+}
+h3{
+    color: hsl(223, 47%, 23%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    font-size: xx-large;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:  hsl(224, 23%, 55%);
+
+}
+.sum{
+    border-radius: 20px 20px 0 0;
+    width: 400px;
+}
+section{
+    background-color:  hsl(225, 100%, 98%);
+    width: 300px;
+    border-radius: 8px;
+    margin-left: 40px;
+    height: 70px;
+    padding: 10px;
+
+}
+span{
+    display: block;
+    float: left;
+}
+.spot{
+    float: left;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+.left{
+    float: right;
+    display: inline;
+}
+footer{
+    background-color: hsl(245, 75%, 52%);
+    width: 310px;
+    border-radius: 8px;
+    margin-left: 40px;
+    height: 40px;
+    margin-top: 20px;padding-top: 15px;
+}
+.enter{
+    color: white;
+}
+.annual{
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+}
+.cancel{
+    color: hsl(224, 23%, 55%);
+} 
